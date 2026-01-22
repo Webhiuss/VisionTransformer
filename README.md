@@ -72,3 +72,5 @@ Contributions to VisionTransformer are welcome and appreciated! We value communi
 # License
 
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/Ronaldo45rt/VisionTransformer/blob/main/LICENSE) file for details.
+
+Auto PR badge trigger.
